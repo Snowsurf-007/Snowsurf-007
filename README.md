@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Snowsurf-007
-- 👀 I’m interested in science (Maths, physics and computer sciences) and sports
-- 🌱 I’m currently learning C language in computer sciences class
-- 💞️ I’m looking to collaborate on nothing for now
+- 👀 I’m interested in science (math, physics, and computer science) and sports.
+- 🌱 I’m currently learning the C language in my computer science class.
+- 💞️ I’m not looking to collaborate on anything for now.
 - 📫 How to reach me : lucien.leheudre@gmail.com
 - 😄 Pronouns: GOAT
 - ⚡ Fun fact: ...
