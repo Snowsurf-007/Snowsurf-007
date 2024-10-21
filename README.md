@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the C language in my computer science class.
 - 💞️ I’m not looking to collaborate on anything for now.
 - 📫 How to reach me : lucien.leheudre@gmail.com
-- 😄 Pronouns: GOAT
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
